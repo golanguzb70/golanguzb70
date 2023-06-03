@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, We are group of Golang developers from Uzbekistan</h1>
 <h3 align="center">We build golang sdks, templates and libraries to make development easy and fast for all Golang developers</h3>
 
-- ⚡ Fun fact **I think it is good**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
