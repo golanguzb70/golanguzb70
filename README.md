@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, We are group of Golang developers from Uzbekistan</h1>
-<h3 align="center">We build golang sdks, templates and libraries to make development easy and fast for all Golang developers</h3>
-
+<h3 align="center">We build golang open source sdks, templates and libraries to make development easy and fast for all Golang developers</h3>
+<h3 align="center">We encourage experienced Golang developers to contribute our open source projects to broaden Golang Community</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
