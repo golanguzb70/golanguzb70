@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Sowtware engineer who loves Golang</h1>
+<h1 align="center">Hi 👋, I am Software engineer who loves Golang</h1>
 <h3 align="center">I build golang open source sdks, templates and libraries to make development easy and fast for all Golang developers and share them all here</h3
 
 <!-- <h3 align="left">Connect with me:</h3>
